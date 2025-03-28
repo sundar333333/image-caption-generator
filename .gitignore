@@ -1,0 +1,8 @@
+# Ignore virtual environment
+venv/
+
+# Ignore large model files
+mymodel.h5
+*.pyd
+*.lib
+*.dll
