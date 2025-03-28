@@ -6,3 +6,4 @@ mymodel.h5
 *.pyd
 *.lib
 *.dll
+myenv/
